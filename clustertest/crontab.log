@@ -1,0 +1,12 @@
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 5: : command not found
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 11: let: secDiff=1470770880-1470770881: syntax error: invalid arithmetic operator (error token is "-1470770881")
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 19: syntax error: unexpected end of file
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 5: : command not found
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 11: let: secDiff=1470770880-1470770941: syntax error: invalid arithmetic operator (error token is "-1470770941")
+/workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: line 19: syntax error: unexpected end of file
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory
+/bin/sh: /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh: /bin/bash^M: bad interpreter: No such file or directory

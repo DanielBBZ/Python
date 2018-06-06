@@ -1,0 +1,1 @@
+* * * * * /workspace/ws03/IData/Users/Daniel/Support/clustertest/checktime.sh >> /workspace/ws03/IData/Users/Daniel/Support/clustertest/crontab.log 2>&1
