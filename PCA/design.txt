@@ -1,24 +1,24 @@
-File	Sample	treatment	day	tissue	Genotype
-LL0322071101	methylcellulose_5day_liver_RATM_Wistar_1101_448321	methylcellulose	5day	liver	Wistar
-LL0322071102	methylcellulose_5day_liver_RATM_Wistar_1102_448324	methylcellulose	5day	liver	Wistar
-LL0322071103	methylcellulose_5day_liver_RATM_Wistar_1103_448326	methylcellulose	5day	liver	Wistar
-LL0322071104	methylcellulose_5day_liver_RATM_Wistar_1104_448328	methylcellulose	5day	liver	Wistar
-LL0322071105	methylcellulose_5day_liver_RATM_Wistar_1105_448330	methylcellulose	5day	liver	Wistar
-LL0322071106	methylcellulose_5day_liver_RATM_Wistar_1106_448332	methylcellulose	5day	liver	Wistar
-LL0322072101	methylcellulose_5day_liver_RATM_TR_2101_448334	methylcellulose	5day	liver	TR
-LL0322072102	methylcellulose_5day_liver_RATM_TR_2102_448336	methylcellulose	5day	liver	TR
-LL0322072103	methylcellulose_5day_liver_RATM_TR_2103_448338	methylcellulose	5day	liver	TR
-LL0322072104	methylcellulose_5day_liver_RATM_TR_2104_448340	methylcellulose	5day	liver	TR
-LL0322072105	methylcellulose_5day_liver_RATM_TR_2105_448342	methylcellulose	5day	liver	TR
-LL0322072106	methylcellulose_5day_liver_RATM_TR_2106_448344	methylcellulose	5day	liver	TR
-LL0322075101	DPC904_5day_liver_RATM_Wistar_5101_448346	DPC904	5day	liver	Wistar
-LL0322075102	DPC904_5day_liver_RATM_Wistar_5102_448348	DPC904	5day	liver	Wistar
-LL0322075103	DPC904_5day_liver_RATM_Wistar_5103_448350	DPC904	5day	liver	Wistar
-LL0322075104	DPC904_5day_liver_RATM_Wistar_5104_448352	DPC904	5day	liver	Wistar
-LL0322075105	DPC904_5day_liver_RATM_Wistar_5105_448354	DPC904	5day	liver	Wistar
-LL0322075106	DPC904_5day_liver_RATM_Wistar_5106_448356	DPC904	5day	liver	Wistar
-LL0322076101	DPC904_5day_liver_RATM_TR_6101_448358	DPC904	5day	liver	TR
-LL0322076102	DPC904_5day_liver_RATM_TR_6102_448360	DPC904	5day	liver	TR
-LL0322076103	DPC904_5day_liver_RATM_TR_6103_448362	DPC904	5day	liver	TR
-LL0322076105	DPC904_5day_liver_RATM_TR_6105_448364	DPC904	5day	liver	TR
-LL0322076106	DPC904_5day_liver_RATM_TR_6106_448365	DPC904	5day	liver	TR
+Samples	Group1	Group2
+sample1	A	C
+sample2	A	C
+sample3	A	C
+sample4	A	C
+sample5	A	C
+sample6	A	C
+sample7	A	D
+sample8	A	D
+sample9	A	D
+sample10	A	D
+sample11	A	D
+sample12	A	D
+sample13	B	C
+sample14	B	C
+sample15	B	C
+sample16	B	C
+sample17	B	C
+sample18	B	C
+sample19	B	D
+sample20	B	D
+sample21	B	D
+sample22	B	D
+sample23	B	D
